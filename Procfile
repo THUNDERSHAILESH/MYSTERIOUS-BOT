@@ -1,1 +1,1 @@
-worker: bash DeadlyBot
+worker: bash MysteriousBot
