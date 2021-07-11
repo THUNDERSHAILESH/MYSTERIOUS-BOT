@@ -1,6 +1,6 @@
 {
-  "name": "Deadly BOT",
-  "description": "The best userbot made by @SAMEER_795. Made with Love ❤️ And Phone And Hardwork and... Nhi aur kahi se to nhi bana😂...For Support Join @deadly_userbot",  
+  "name": "Mysterious BOT",
+  "description": "The best userbot made by @official_sameer Made with Love ❤️ And Phone And Hardwork and... Nhi aur kahi se to nhi bana😂...For Support Join @MYSTERIOUS_SUPPORT",  
   "logo": "https://telegra.ph/file/fbb41395fd0feab088922.jpg",
     "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sameerpanthi/deadly-op-bot/",
-  "website": "https://github.com/sameerpanthi/deadly-op-bot/",
-  "success_url": "https://t.me/deadly_bot",
+  "repository": "https://github.com/sameerpanthi/Mysterious-bot/",
+  "website": "https://github.com/sameerpanthi/mysterious-bot/",
+  "success_url": "https://t.me/MYSTERIOUS_SUPPORT",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -23,15 +23,15 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @SAMEER_795. ",
-      "value": "@Deadly_userbot",
+      "description": "Fill your Full name or Username like @official_sameer. ",
+      "value": "@MYSTERIOUS_SUPPORT",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .awake Command.",
-      "value": "🔥 #𝙳𝙴𝙰𝙳𝙻𝚈_𝙸𝚂_𝙾𝙽_𝙵𝙸𝚁𝙴_𝚂𝙰𝙰𝚁 🔥",
+      "value": "🔥 #𝙼𝚈𝚂𝚃𝙴𝚁𝙸𝙾𝚄𝚂_𝙸𝚂_𝙾𝙽_𝙵𝙸𝚁𝙴_𝚂𝙰𝙰𝚁 🔥",
       "required": false
-    },
+    },                 
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive and .awake command. Leave blank for default pic.",
       "value": "https://telegra.ph/file/f992c4914b446609b431a.jpg",
@@ -39,7 +39,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈ᒪᗴᘜᗴᑎᗪᖇY ᗩᖴ ᗪᗴᗩᗪᒪY ᗷOT😈",
+      "value": "😈ᒪᗴᘜᗴᑎᗪᖇY ᗩᖴ ᗰYՏTᗴᖇIOᑌՏ ᗷOT😈",
       "required": false
     },
     "PMPERMIT_PIC": {
