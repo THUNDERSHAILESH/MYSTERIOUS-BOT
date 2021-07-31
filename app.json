@@ -1,7 +1,7 @@
 {
-  "name": "Mysterious BOT",
-  "description": "The best userbot made by @official_sameer Made with Love ❤️ And Phone And Hardwork and... Nhi aur kahi se to nhi bana😂...For Support Join @MYSTERIOUS_SUPPORT",  
-  "logo": "https://telegra.ph/file/48d566804827e94ef4a99.jpg",
+  "name": " BOT",
+  "description": "The best userbot made by  Made with Love ❤️ And Phone And Hardwork and... Nhi aur kahi se to nhi bana😂...For Support Join @MYSTERIOUS_SUPPORT",  
+  "logo": "",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sameerpanthi/Mysterious-bot/",
+  "repository": "",
   "website": "https://github.com/sameerpanthi/mysterious-bot/",
   "success_url": "https://t.me/MYSTERIOUS_SUPPORT",
   "env": {
@@ -29,7 +29,7 @@
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .awake Command.",
-      "value": "🔥 #𝙼𝚈𝚂𝚃𝙴𝚁𝙸𝙾𝚄𝚂_𝙸𝚂_𝙾𝙽_𝙵𝙸𝚁𝙴_𝚂𝙰𝙰𝚁 🔥",
+      "value": "🔥 #𝙸𝚂_𝙾𝙽_𝙵𝙸𝚁𝙴_𝚂𝙰𝙰𝚁 🔥",
       "required": false
     },                 
     "ALIVE_PIC": {
@@ -39,7 +39,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈ᒪᗴᘜᗴᑎᗪᖇY ᗩᖴ ᗰYՏTᗴᖇIOᑌՏ ᗷOT😈",
+      "value": "😈ᒪᗴᘜᗴᑎᗪᖇY ᗩᖴ ᗷOT😈",
       "required": false
     },
     "PMPERMIT_PIC": {
