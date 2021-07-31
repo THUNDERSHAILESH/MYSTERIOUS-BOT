@@ -1,6 +1,6 @@
 {
-  "name": "Mysterious BOT",
-  "description": "The best userbot made by @official_sameer Made with Love ❤️ And Phone And Hardwork and... Nhi aur kahi se to nhi bana😂...For Support Join @MYSTERIOUS_SUPPORT",  
+  "name": " BOT",
+  "description": "The best userbot made by shail Made with Love ❤️ And Phone And Hardwork and... Nhi aur kahi se to nhi bana😂...For Support Join @MYSTERIOUS_SUPPORT",  
   "logo": "https://telegra.ph/file/48d566804827e94ef4a99.jpg",
     "keywords": [
     "telegram",
@@ -24,32 +24,32 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name or Username like @official_sameer. ",
-      "value": "@MYSTERIOUS_SUPPORT",
+      "value": "@shaielhs",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .awake Command.",
-      "value": "🔥 #𝙼𝚈𝚂𝚃𝙴𝚁𝙸𝙾𝚄𝚂_𝙸𝚂_𝙾𝙽_𝙵𝙸𝚁𝙴_𝚂𝙰𝙰𝚁 🔥",
+      "value": "🔥 jejdndjdxnnx_𝙸𝚂_𝙾𝙽_𝙵𝙸𝚁𝙴_𝚂𝙰𝙰𝚁 🔥",
       "required": false
     },                 
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive and .awake command. Leave blank for default pic.",
-      "value": "https://telegra.ph/file/4fd3b65a954accca5d516.jpg",
+      "value": "",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈ᒪᗴᘜᗴᑎᗪᖇY ᗩᖴ ᗰYՏTᗴᖇIOᑌՏ ᗷOT😈",
+      "value": "😈ᒪᗴᘜᗴᑎᗪᖇY ᗩᖴ ᗰYՏThdjdndndjdnՏ ᗷOT😈",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/4fd3b65a954accca5d516.jpg",
+      "value": "",
       "required": false
     },
     "CUSTOM_PMPERMIT": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "PLEASE DO NOT SPAM MY DM, I WILL REPLY YOU AFTER COME BACK ONLINE!",
+      "value": "PLEASE DO NOT SPAM Msnjsdnnddnn I WILL REPLY YOU AFTER COME BACK ONLINE!",
       "required": false
     },
     "PM_PERMIT_GROUP_ID": {
